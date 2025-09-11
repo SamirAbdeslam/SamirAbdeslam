@@ -12,7 +12,7 @@ With some front-end experience, I like combining clean code with user-focused de
 
 ## 📊 42 Stats
 
-[![Badge principale](https://badge.mediaplus.ma/kettlebells/igilani?1337Badge=off&UM6P=off)](#)
+[![igilani42Badge](https://badge.mediaplus.ma/kettlebells/igilani?1337Badge=off&UM6P=off)](#)
 
 ---
 
@@ -25,12 +25,12 @@ With some front-end experience, I like combining clean code with user-focused de
 ## 🌍 Life Beyond Code @ 42
 When I'm not coding or working on 42 projects, I like to unwind with hobbies I enjoy:  
 
-- 🎶 [Music I like](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M?utm_source=generator&theme=0)  
+- 🎶 [Listening to music](https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M?utm_source=generator&theme=0)  
 - 🎮 Playing video games
 
 ---
 
 ## ⚡ GitHub Stats
-[![Ismail's Stats](https://github-readme-stats.vercel.app/api?username=SamirAbdeslam&show_icons=true&hide_border=true&count_private=true&text_color=f3d849&bg_color=191718&title_color=f3d849&icon_color=f3d849)](#)
+[![Ismail's Stats](https://github-readme-stats.vercel.app/api?username=SamirAbdeslam&show_icons=true&hide_border=true&count_private=true&text_color=f3d849&bg_color=191718&title_color=f3d849&icon_color=f3d849&rank_icon=github)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirAbdeslam&layout=compact&hide=Roff,Perl&hide_border=true&count_private=true&text_color=f3d849&bg_color=191718&title_color=f3d849)](#)
 
