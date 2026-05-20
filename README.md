@@ -31,6 +31,6 @@ When I'm not coding or working on 42 projects, I like to unwind with hobbies I e
 ---
 
 ## ⚡ GitHub Stats
-[![Ismail's Stats](https://github-readme-stats.vercel.app/api?username=SamirAbdeslam&show_icons=true&hide_border=true&count_private=true&text_color=f3d849&bg_color=191718&title_color=f3d849&icon_color=f3d849&rank_icon=github)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirAbdeslam&layout=compact&hide=Roff,Perl&hide_border=true&count_private=true&text_color=f3d849&bg_color=191718&title_color=f3d849)](#)
+[![Ismail's Stats](https://github-stats-extended.vercel.app/api?username=SamirAbdeslam&show_icons=true&hide_border=true&count_private=true&text_color=f3d849&bg_color=191718&title_color=f3d849&icon_color=f3d849&rank_icon=github)](#)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SamirAbdeslam&layout=compact&hide=Roff,Perl&hide_border=true&count_private=true&text_color=f3d849&bg_color=191718&title_color=f3d849)](#)
 
