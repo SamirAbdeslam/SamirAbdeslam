@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Ismail
 
 🎓 Student at [42 Florence](https://42firenze.it)  
-💻 Passionate about **C, Linux, and Web Development**   
+💼 Junior Software Engineer @ [SED Group](https://sedgroup.it/) | Embedded C/C++ & Firmware  
+💻 Passionate about **C,C++, Linux, and Web Development**   
 🚀 Always growing through **projects, teamwork and new challenges**  
 
 I enjoy tackling complex problems, writing clean and efficient code,
